@@ -1,0 +1,22 @@
+/* =============================================================================
+Theme Name: Phlox Child
+Theme URI: http://nodomain.com
+Author: Shereen Zangana
+Author URI: http://www.averta.net
+Template: phlox
+Description: Phlox Child is a modern WordPress theme based on Phlox. It is a lightweight and customizable theme perfect for almost any type of website including, blog, portfolio, business, agency, news & magazine, food & restaurant, travel, and photography as well as WooCommerce storefront. Thanks to the author of Phlox - averta.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+==============================================================================*/
+
+/*All the customizable font is below this line*/
+
+body, *{
+    font-family: 'Poppins', sans-serif!important;
+}
+
+/* *{ 
+color: aquamarine;
+} */
